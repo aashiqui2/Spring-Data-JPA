@@ -92,9 +92,9 @@ Watch the complete playlist here: <b>Spring Data JPA with Spring Boot</b>.
     <a href="https://www.java.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70" alt="Java" />
     </a>
-    <a href="https://spring.io/projects/spring-framework" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="70" alt="Spring Framework" />
-    </a>
+   <a href="https://spring.io" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  height="70" alt="Spring"  />
+</a>  
     <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="70" alt="Spring Boot" />
     </a>
